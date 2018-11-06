@@ -1,0 +1,4 @@
+passwords.txt
+*.log
+/bin
+/datos/basedatos.sh
